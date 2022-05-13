@@ -1,0 +1,116 @@
+body{
+    background-color: palevioletred;
+    width: max-content;
+}
+
+div.box{
+    background-color: rgb(22, 23, 23);
+    height: 50px;
+    width: 50px;
+    margin: 0.7rem;
+    color: rgb(25, 23, 23);
+}
+
+.box6{
+    position: absolute;
+    top: 0rem;
+    left: 4.4rem;
+
+}
+
+.box7{
+    position: absolute;
+    top: 3.9rem;
+    left: 7.4rem;
+
+}
+
+.box8{
+    position: absolute;
+    top: 7.7rem;
+    left: 4.4rem;
+
+}
+
+.box9{
+    position: absolute;
+    top: 11.5rem;
+    left: 7.4rem;
+
+}
+
+.box10{
+    position: absolute;
+    top: 15.4rem;
+    left: 10.4rem;
+
+}
+
+.box11{
+    position: absolute;
+    top: 15.4rem;
+    left: 17.4rem;
+
+}
+
+.box12{
+    position: absolute;
+    top: 0rem;
+    right: 23rem;
+
+}
+
+.box13{
+    position: absolute;
+    top: 03.9rem;
+    right:  23rem;
+
+}
+
+.box14{
+    position: absolute;
+    top: 07.7rem;
+    right: 23rem;
+
+}
+
+.box15{
+    position: absolute;
+    top: 11.5rem;
+    right: 23rem;
+
+}
+
+.box16{
+    position: absolute;
+    top: 15.4rem;
+    left: 32rem;
+
+}
+
+.box17{
+    position: absolute;
+    top: 0rem;
+    right: 30.4rem;
+
+}
+.box18{
+    position: absolute;
+    top: 3.9rem;
+    right: 27rem;
+
+}
+
+.box19{
+    position: absolute;
+    top: 11.5rem;
+    right: 27rem;
+
+}
+
+.box20{
+    position: absolute;
+    top: 15.4rem;
+    left: 24.4rem;
+
+}
